@@ -1,6 +1,6 @@
 # Guia de Documentació del Projecte
 
-Us proporciono una guia completa sobre com documentar l'aplicació, que consta de dos components principals: el scrapper web i el mòdul d'interacció amb l'API de Uber.
+Us proporciono una guia completa sobre com documentar l'aplicació, que consta de dos components principals: el scrapper web i el mòdul d'interacció amb l'API.
 
 ## Estructura de la Documentació
 
